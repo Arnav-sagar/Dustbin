@@ -1,4 +1,4 @@
-🤖 Smart Automatic Dustbin
+🤖 Smart Automatic Dustbiin
 
 An intelligent robotic dustbin designed to automatically detect, track, and catch waste thrown towards it.
 
