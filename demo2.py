@@ -4,7 +4,7 @@ import numpy as np
 from ultralytics import YOLO
 
 # ----------------- CONFIGURATION -----------------
-CAMERA_SOURCE = 1  # 0 or 1 for USB / IP stream
+CAMERA_SOURCE = 0  # 0 or 1 for USB / IP stream
 
 FRAME_W = 640
 FRAME_H = 480
