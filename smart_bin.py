@@ -15,7 +15,7 @@ FRAME_H = 480
 
 # Standardized projectile diameter (e.g., 7.0 cm neon-taped ball / 5.0 cm ball)
 TARGET_REAL_DIAMETER = 0.050
-FOCAL_LENGTH = 512.2
+FOCAL_LENGTH = 415.0
 
 # Wall-Mount Physical Geometry
 WALL_CAMERA_HEIGHT = 1.90      # Height of camera lens from floor (meters)
